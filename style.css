@@ -1,0 +1,8 @@
+.box {
+    box-sizing: border-box;
+    justify-content: center;
+    font-size: large;
+    font-family: monospace;
+    color: black;
+    background-color: wheat;
+}
